@@ -11,7 +11,7 @@ fi
 
 
 clear
-echo "Ubuntu Cleaner 1.0V"
+echo "Ubuntu Cleaner 1.2V"
 echo ""
 /bin/sleep 3
 clear
