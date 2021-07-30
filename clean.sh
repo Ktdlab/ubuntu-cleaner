@@ -11,7 +11,7 @@ fi
 
 
 clear
-echo "Ubuntu Cleaner 1.2V"
+echo "Ubuntu Cleaner 1.3V"
 echo ""
 /bin/sleep 3
 clear
@@ -44,7 +44,7 @@ echo ""
 /bin/sleep 5
 
 du -sh /var/cache/apt/archives
-yes | apt-get clean
-yes | apt-get autoremove --purge
-yes | apt-get update
-yes | apt-get upgrade
+apt-get clean -y
+apt-get autoremove --purge -y
+apt-get update -y
+apt-get upgrade -y
