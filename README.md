@@ -1,5 +1,5 @@
 # ubuntu-cleaner
-Cleans cache and temp files in ubuntu.
+Cleans cache and temp files and updated/upgrades packages in ubuntu.
 
 Installation and running
 1. git clone https://github.com/Ktdlab/ubuntu-cleaner.git
